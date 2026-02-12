@@ -14,7 +14,8 @@ public class Progecto_GIT {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("xd");
+        System.out.println("dx");
     }
     
 }
+
